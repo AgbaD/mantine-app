@@ -1,5 +1,5 @@
-# Mantine Next Template
+## run
 
-Get started with the template by clicking `Use this template` button on the top of the page.
+`npm install`
 
-[Documentation](https://mantine.dev/guides/next/)
+`npm run dev`
