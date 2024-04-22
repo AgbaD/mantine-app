@@ -9,7 +9,6 @@ const useAuth = () => {
     const router = useRouter()
 
     const loginUser = async(dto: LoginDto) => {
-        console.log('here')
         // const res = await $_login(dto);
 
         // if (res.status === 200) {
